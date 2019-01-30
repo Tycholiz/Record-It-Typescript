@@ -1,0 +1,19 @@
+export const TOGGLE_CONTROL_VIEW = "TOGGLE_CONTROL_VIEW";
+export const START_RECORDING = "START_RECORDING";
+export const START_PLAYING = "START_PLAYING";
+export const ENTER_FOLDER = "ENTER_FOLDER";
+export const CURRENT_FOLDER = "CURRENT_FOLDER";
+export const GET_INITIAL_UNITS = "GET_INITIAL_UNITS";
+export const SET_ACTIVE_FILE = "SET_ACTIVE_FILE";
+export const CREATE_FOLDER = "CREATE_FOLDER";
+export const TOGGLE_OPTIONS = "TOGGLE_OPTIONS";
+export const DELETE_UNIT = "DELETE_UNIT";
+export const DELETE_UNITS = "DELETE_UNITS";
+export const RENAME_UNIT = "RENAME_UNIT";
+export const MULTIPLE_MODE = "MULTIPLE_MODE";
+export const MODIFY_SELECTED_UNIT = "MODIFY_SELECTED_UNIT";
+export const MOVE_UNIT = "MOVE_UNIT";
+export const MOVE_UNITS = "MOVE_UNITS";
+
+export const RECORD = "RECORD";
+export const PLAYBACK = "PLAYBACK";
